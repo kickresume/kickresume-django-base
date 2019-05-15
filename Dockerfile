@@ -14,4 +14,5 @@ RUN apk update && \
     libxslt-dev \
     jpeg-dev \
     libjpeg-turbo \
-    freetype-dev
+    freetype-dev \
+    linux-headers
